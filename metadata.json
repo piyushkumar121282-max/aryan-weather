@@ -1,0 +1,6 @@
+{
+  "name": "Aryan Weather",
+  "description": "Realistic real-time weather application providing live meteorological data, dynamic atmospheric simulation, radar tracking, hourly and 7-day forecasts for requested locations.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
